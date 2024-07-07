@@ -15,6 +15,15 @@ const Header = () => {
       <a href="/liked" className="text-md p-2 m-2">
         Liked
       </a>
+      <a href="/pagination" className="text-md p-2 m-2">
+        Pagination
+      </a>
+      <a href="/chat" className="text-md p-2 m-2">
+        Live Chat
+      </a>
+      <a href="/search" className="text-md p-2 m-2">
+        Search
+      </a>
     </div>
   );
 };
